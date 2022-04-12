@@ -1,7 +1,7 @@
 {
   "name": "louvre01",
   "version": "1.0.0",
-  "main": "asd.js",
+  "main": "bot.js",
   "dependencies": {
     "abbrev": "^1.1.1",
     "agent-base": "^6.0.2",
