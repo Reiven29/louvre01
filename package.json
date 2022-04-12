@@ -108,6 +108,10 @@
     "type": "git",
     "url": "git+https://github.com/Reiven29/louvre01.git"
   },
+  "engines": {
+    "node": "16.x",
+    "npm": "7.x"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
