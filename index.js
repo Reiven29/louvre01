@@ -9,3 +9,5 @@ client.on('ready', () => {
     console.log('Ready!');
     CONFIG(client);
 });
+
+client.login(client.config.discord.token);
