@@ -1,26 +1,30 @@
 {
-  "name": "louvre01",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "discord-permissions": "^1.0.0",
+    "discord-player": "^4.1.4",
+    "discord.js": "^12.5.3",
+    "distube": "^2.8.15",
+    "ffmpeg-static": "^4.4.0",
+    "opusscript": "^0.0.8",
+    "pretty-ms": "^7.0.1",
+    "ytdl-core": "^4.9.1"
+  },
+  "name": "music-bot",
+  "description": "Vodify",
   "version": "1.0.0",
-  "description": "Louvre BOT",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node ."
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Reiven29/louvre01.git"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeamVoid04/Vodify.git"
+  },
   "bugs": {
-    "url": "https://github.com/Reiven29/louvre01/issues"
+    "url": "https://github.com/TeamVoid04/Vodify/issues"
   },
-  "homepage": "https://github.com/Reiven29/louvre01#readme",
-  "dependencies": {
-    "canvas": "^2.9.1",
-    "discord.js-12": "^1.0.2",
-    "moment": "^2.29.2"
-  },
-  "devDependencies": {}
+  "homepage": "https://github.com/TeamVoid04/Vodify#readme"
 }
