@@ -1,6 +1,7 @@
 {
   "name": "louvre01",
   "version": "1.0.0",
+  "description": "Louvre BOT",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +16,9 @@
     "url": "https://github.com/Reiven29/louvre01/issues"
   },
   "homepage": "https://github.com/Reiven29/louvre01#readme",
-  "description": ""
+  "dependencies": {
+    "canvas": "^2.9.1",
+    "discord.js-12": "^1.0.2",
+    "moment": "^2.29.2"
+  }
 }
