@@ -1,7 +1,7 @@
-module.exports = async (client) => {
+const Discord = require('discord.js-12');
+const Canvas = require('canvas');
 
-    const Discord = require('discord.js-12');
-    const Canvas = require('canvas');
+module.exports = async (client) => {
     // ------------------------------------- //
 
     const applyText = (canvas, text) => {
