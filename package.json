@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Reiven29/louvre01#readme",
   "dependencies": {
+    "canvas": "^2.8.0",
     "discord.js-12": "^1.0.2"
   }
 }

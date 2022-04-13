@@ -7,4 +7,9 @@ client.on('ready', () => {
     console.log('Ready!');
 });
 
+const Welcome = require('./welcome/welcome');
+client.on('ready', () => {
+    Welcome(client);
+});
+
 client.login(client.config.discord.token);
