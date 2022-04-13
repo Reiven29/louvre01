@@ -17,7 +17,6 @@
     "moment": "^2.29.1",
     "pretty-ms": "^7.0.1"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Reiven29/louvre01.git"
@@ -26,5 +25,6 @@
     "url": "https://github.com/Reiven29/louvre01/issues"
   },
   "homepage": "https://github.com/Reiven29/louvre01#readme",
+  "devDependencies": {},
   "description": ""
 }
